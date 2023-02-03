@@ -61,7 +61,7 @@
     text-decoration: none;
   }
   .site-nav .studio1 {
-    color: var(--blue2);
+    color: var(--navyblue);
   }
   .site-nav .portfolio1 {
     color: var(--navyblue);
@@ -268,7 +268,7 @@
   }
 
   .site-nav2 .portfolio2 {
-    color: var(--blue2);
+    color:var(--navyblue);
   }
   .site-nav2 .contacts2 {
     color: var(--navyblue);
